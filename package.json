@@ -1,0 +1,20 @@
+{
+  "name": "peko-token-contract",
+  "version": "1.0.0",
+  "description": "The smart contract of an ERC20 token - Peko",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "peko",
+    "linea",
+    "erc20",
+    "solidity"
+  ],
+  "author": "Peko",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.16.1"
+  }
+}
